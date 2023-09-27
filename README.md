@@ -29,6 +29,10 @@ Creating my instance on Azure took much longer cmpared to GCP.
 
 
 ## My experience with MySQL Workbench, including the ERD creation and database interactions.
-My experience with MySQL Workbench was positive, I did not find it very hard to use or work with. I also did not face any errors when creating my tables or running the commands. I found MySQL to be well organized. The only comaplaint I has was consantly having to quit everytime I wanted to go into another connection. 
+My experience with MySQL Workbench was positive, I did not find it very hard to use or work with. I also did not face any errors when creating my tables or running the commands. I found MySQL to be well organized. The only complaint I has was consantly having to quit everytime I wanted to go into another connection. 
 I found the ERD creation to be very simple and straight-forward to generate. The ERD for both GCP and Azure were very interesting to view and analyze. 
 The database interaction was also stright-forward, I did not run into any errors which I was very happy about. 
+I was able to copy, paste, and run the codes (without errors) for demographics which was found in 1_1_create.sql, doctors which was found in 1_n_create.sql, medications and patient_medications which was found in m_n_create.sql. The only code I had to alter was patients -- and I just added on to the code for patients found in 1_1_create.sql from 1_n_create.sql and m_n_create.sql. 
+
+### Creating a new table
+The table I created on my own was titled illness and it incorportated illness ID, illness name, and medication ID which was the foreign key. 
