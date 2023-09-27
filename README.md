@@ -14,7 +14,7 @@ For Instance ID I typed fahima-mysql-assignment4 and set my password
 Under connections, made sure it was set to Public IP, and then under "Add A Nerwork" for name I typed Allow All and under Network I typed 0.0.0.0/0 -- this is to make my instance public and allow anyone to connect to my database
 Finally, clicked done and create instance
 It took me exactly 6 mins and 15 seconds to create my instance. 
-###Azure
+### Azure
 For Azure, i followed the steps provided by Professors Hants' slides. So, first I logged on to my Azure account, confirming it was my Stony Brook email. 
 I then went typed Azure Database for MySQL in the search bar and selected create.
 I selected "Flexible Server. 
