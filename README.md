@@ -25,3 +25,10 @@ In the networking tab, I made sure the "Connectivity method" was set to "Public 
 I also added the "Firewall rules" which allows public access and had the 0.0.0.0
 I made sure it read Compute Sku:USD 12.41/month on the right hand side
 Creating my instance on Azure took much longer cmpared to GCP.
+
+
+
+## My experience with MySQL Workbench, including the ERD creation and database interactions.
+My experience with MySQL Workbench was positive, I did not find it very hard to use or work with. I also did not face any errors when creating my tables or running the commands. I found MySQL to be well organized. The only comaplaint I has was consantly having to quit everytime I wanted to go into another connection. 
+I found the ERD creation to be very simple and straight-forward to generate. The ERD for both GCP and Azure were very interesting to view and analyze. 
+The database interaction was also stright-forward, I did not run into any errors which I was very happy about. 
